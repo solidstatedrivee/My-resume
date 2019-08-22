@@ -945,6 +945,17 @@ footer a {
     /* padding-left: 50px; */
 }
 
+.fa-github {
+    /* border: 1px solid black; */
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0;
+}
+
+.fa-github:hover {
+    color: #011936;
+}
+
 /*MAIN NAVIGATION*/
 
 .active {
